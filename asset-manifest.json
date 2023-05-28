@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactApp/static/css/main.df4c0b82.css",
-    "main.js": "/ReactApp/static/js/main.f3c1ac3c.js",
-    "static/js/787.142da1d4.chunk.js": "/ReactApp/static/js/787.142da1d4.chunk.js",
-    "static/media/logo.svg": "/ReactApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ReactApp/index.html",
-    "main.df4c0b82.css.map": "/ReactApp/static/css/main.df4c0b82.css.map",
-    "main.f3c1ac3c.js.map": "/ReactApp/static/js/main.f3c1ac3c.js.map",
-    "787.142da1d4.chunk.js.map": "/ReactApp/static/js/787.142da1d4.chunk.js.map"
+    "main.css": "/ChainOfEducation/static/css/main.4d605da8.css",
+    "main.js": "/ChainOfEducation/static/js/main.7073998f.js",
+    "static/js/787.142da1d4.chunk.js": "/ChainOfEducation/static/js/787.142da1d4.chunk.js",
+    "static/media/Banner.jpg": "/ChainOfEducation/static/media/Banner.11114ca1c730230d74d9.jpg",
+    "static/media/logo.png": "/ChainOfEducation/static/media/logo.7cc853f0743ec6494aae.png",
+    "static/media/Physics.png": "/ChainOfEducation/static/media/Physics.ca83d280b0e71b05a862.png",
+    "static/media/logo.svg": "/ChainOfEducation/static/media/logo.8bce5ea40ec955d1a67f6942c8cb7fc4.svg",
+    "static/media/Chemistry.png": "/ChainOfEducation/static/media/Chemistry.c1f676d1958b101564f6.png",
+    "index.html": "/ChainOfEducation/index.html",
+    "main.4d605da8.css.map": "/ChainOfEducation/static/css/main.4d605da8.css.map",
+    "main.7073998f.js.map": "/ChainOfEducation/static/js/main.7073998f.js.map",
+    "787.142da1d4.chunk.js.map": "/ChainOfEducation/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df4c0b82.css",
-    "static/js/main.f3c1ac3c.js"
+    "static/css/main.4d605da8.css",
+    "static/js/main.7073998f.js"
   ]
 }
