@@ -1,20 +1,36 @@
 {
   "files": {
-    "main.css": "/ChainOfEducation/static/css/main.4d605da8.css",
-    "main.js": "/ChainOfEducation/static/js/main.56d68833.js",
+    "main.css": "/ChainOfEducation/static/css/main.5cd999ed.css",
+    "main.js": "/ChainOfEducation/static/js/main.bfe7d9e8.js",
     "static/js/787.142da1d4.chunk.js": "/ChainOfEducation/static/js/787.142da1d4.chunk.js",
+    "static/media/fa-solid-900.svg": "/ChainOfEducation/static/media/fa-solid-900.18df003f90a7f1313b98.svg",
+    "static/media/fa-brands-400.svg": "/ChainOfEducation/static/media/fa-brands-400.3c45c98f6f6c1b009c08.svg",
+    "static/media/chap3Chem.png": "/ChainOfEducation/static/media/chap3Chem.15bef4665959046e75f9.png",
+    "static/media/fa-solid-900.eot": "/ChainOfEducation/static/media/fa-solid-900.7eefe04dc985dd4ad38b.eot",
+    "static/media/fa-solid-900.ttf": "/ChainOfEducation/static/media/fa-solid-900.32267f3b4db33a7c85ee.ttf",
+    "static/media/fa-regular-400.svg": "/ChainOfEducation/static/media/fa-regular-400.ab47faeab8ddc5f809ec.svg",
+    "static/media/fa-brands-400.eot": "/ChainOfEducation/static/media/fa-brands-400.607a77859353c0cc1882.eot",
+    "static/media/fa-brands-400.ttf": "/ChainOfEducation/static/media/fa-brands-400.5818bbd07dfd7095920a.ttf",
+    "static/media/fa-solid-900.woff": "/ChainOfEducation/static/media/fa-solid-900.a940d584750708f5435c.woff",
+    "static/media/fa-brands-400.woff": "/ChainOfEducation/static/media/fa-brands-400.ee26f57bc9e3619b022b.woff",
+    "static/media/fa-solid-900.woff2": "/ChainOfEducation/static/media/fa-solid-900.9451d5fee89b51a20f8a.woff2",
+    "static/media/fa-brands-400.woff2": "/ChainOfEducation/static/media/fa-brands-400.31015e861aeb30ff8355.woff2",
+    "static/media/fa-regular-400.eot": "/ChainOfEducation/static/media/fa-regular-400.0747be4cba2f8600544f.eot",
+    "static/media/fa-regular-400.ttf": "/ChainOfEducation/static/media/fa-regular-400.c3146b3524e97475c094.ttf",
     "static/media/Banner.jpg": "/ChainOfEducation/static/media/Banner.11114ca1c730230d74d9.jpg",
     "static/media/logo.png": "/ChainOfEducation/static/media/logo.7cc853f0743ec6494aae.png",
+    "static/media/fa-regular-400.woff": "/ChainOfEducation/static/media/fa-regular-400.8b892b7904a39e37c53d.woff",
     "static/media/Physics.png": "/ChainOfEducation/static/media/Physics.ca83d280b0e71b05a862.png",
+    "static/media/fa-regular-400.woff2": "/ChainOfEducation/static/media/fa-regular-400.c52405129ae48097815d.woff2",
     "static/media/logo.svg": "/ChainOfEducation/static/media/logo.8bce5ea40ec955d1a67f6942c8cb7fc4.svg",
     "static/media/Chemistry.png": "/ChainOfEducation/static/media/Chemistry.c1f676d1958b101564f6.png",
     "index.html": "/ChainOfEducation/index.html",
-    "main.4d605da8.css.map": "/ChainOfEducation/static/css/main.4d605da8.css.map",
-    "main.56d68833.js.map": "/ChainOfEducation/static/js/main.56d68833.js.map",
+    "main.5cd999ed.css.map": "/ChainOfEducation/static/css/main.5cd999ed.css.map",
+    "main.bfe7d9e8.js.map": "/ChainOfEducation/static/js/main.bfe7d9e8.js.map",
     "787.142da1d4.chunk.js.map": "/ChainOfEducation/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d605da8.css",
-    "static/js/main.56d68833.js"
+    "static/css/main.5cd999ed.css",
+    "static/js/main.bfe7d9e8.js"
   ]
 }
