@@ -35,15 +35,22 @@ export default function Home() {
       <div className="banner-container">
         <img src={bannerImage} alt="banner" className="banner" />
         <div className="banner-text">
-          <h1>Edufie</h1>
+          <h1>INTERVENTION PROGRAM</h1>
           <hr />
-          <p className="subtext"> Success Made Easier</p>
+          <p className="subtext">
+            {" "}
+            Engage your mind and experience the true power of learning with
+            interactive problem solving, the most effective and enjoyable way
+            for lifelong learning.
+          </p>
         </div>
       </div>
       <div className="appointment">
         <div className="line line-red" />
         <Link to="/home">
-          <div className="appoint">Book An Appointment</div>
+          <a href="https://calendly.com/coe-tutors" class="appoint">
+            Book An Appointment
+          </a>
         </Link>
         <div className="line line-black" />
       </div>
@@ -128,34 +135,34 @@ export default function Home() {
               academically
             </p>
           </div>
-        </div>
-        <div className="contact">
-          <div>
-            <h4>Contact us</h4>
-            <a href="mailto: coeintervetion.programs@gmail.com">Email</a>
-            <p>All operations are remote</p>
-            <div className="socialIcons">
-              <a
-                href="https://www.instagram.com/chainofeducation/"
-                target="_blank"
-                className="social-link"
-              >
-                <i className="ri-instagram-line" />
-              </a>
-              <a
-                href="https://www.linkedin.com/company/chain-of-education/https://www.linkedin.com/company/chain-of-education/"
-                target="_blank"
-                className="social-link"
-              >
-                <i className="ri-linkedin-box-line" />
-              </a>
-              <a
-                href="mailto: coeintervetion.programs@gmail.com"
-                target="_blank"
-                className="social-link"
-              >
-                <i className="ri-mail-line" />
-              </a>
+          <div className="contact">
+            <div>
+              <h4>Contact us</h4>
+              <a href="mailto: coeintervetion.programs@gmail.com">Email</a>
+              <p>All operations are remote</p>
+              <div className="socialIcons">
+                <a
+                  href="https://www.instagram.com/chainofeducation/"
+                  target="_blank"
+                  className="social-link"
+                >
+                  <i className="ri-instagram-line" />
+                </a>
+                <a
+                  href="https://www.linkedin.com/company/chain-of-education/https://www.linkedin.com/company/chain-of-education/"
+                  target="_blank"
+                  className="social-link"
+                >
+                  <i className="ri-linkedin-box-line" />
+                </a>
+                <a
+                  href="mailto: coeintervetion.programs@gmail.com"
+                  target="_blank"
+                  className="social-link"
+                >
+                  <i className="ri-mail-line" />
+                </a>
+              </div>
             </div>
           </div>
         </div>

@@ -23,3 +23,57 @@ nav {
   margin: 10px 10px 10px 0;
   font-family: "Bitter", sans-serif;
 }
+
+@media (max-width: 768px) {
+  .mainTop {
+    width: 100%;
+  }
+
+  .links {
+    font-size: 20px;
+  }
+
+  .nav {
+    flex-direction: column;
+  }
+
+  .logoImage {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .mainTop {
+    width: 100%;
+  }
+
+  .links {
+    font-size: 16px;
+  }
+
+  .nav {
+    flex-direction: column;
+  }
+
+  .logoImage {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 425px) {
+  .mainTop {
+    width: 100%;
+  }
+
+  .links {
+    font-size: 14px;
+  }
+
+  .nav {
+    flex-direction: column;
+  }
+
+  .logoImage {
+    margin-right: 0;
+  }
+}
