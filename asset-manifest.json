@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ChainOfEducation/static/css/main.5cd999ed.css",
-    "main.js": "/ChainOfEducation/static/js/main.71667e8b.js",
+    "main.css": "/ChainOfEducation/static/css/main.675d0b5c.css",
+    "main.js": "/ChainOfEducation/static/js/main.4e8e3ba5.js",
     "static/js/787.142da1d4.chunk.js": "/ChainOfEducation/static/js/787.142da1d4.chunk.js",
     "static/media/fa-solid-900.svg": "/ChainOfEducation/static/media/fa-solid-900.18df003f90a7f1313b98.svg",
     "static/media/fa-brands-400.svg": "/ChainOfEducation/static/media/fa-brands-400.3c45c98f6f6c1b009c08.svg",
@@ -25,12 +25,12 @@
     "static/media/logo.svg": "/ChainOfEducation/static/media/logo.8bce5ea40ec955d1a67f6942c8cb7fc4.svg",
     "static/media/Chemistry.png": "/ChainOfEducation/static/media/Chemistry.c1f676d1958b101564f6.png",
     "index.html": "/ChainOfEducation/index.html",
-    "main.5cd999ed.css.map": "/ChainOfEducation/static/css/main.5cd999ed.css.map",
-    "main.71667e8b.js.map": "/ChainOfEducation/static/js/main.71667e8b.js.map",
+    "main.675d0b5c.css.map": "/ChainOfEducation/static/css/main.675d0b5c.css.map",
+    "main.4e8e3ba5.js.map": "/ChainOfEducation/static/js/main.4e8e3ba5.js.map",
     "787.142da1d4.chunk.js.map": "/ChainOfEducation/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cd999ed.css",
-    "static/js/main.71667e8b.js"
+    "static/css/main.675d0b5c.css",
+    "static/js/main.4e8e3ba5.js"
   ]
 }
