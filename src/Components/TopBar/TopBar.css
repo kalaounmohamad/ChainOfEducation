@@ -1,13 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
-
-.mainTop{
-    background-color: bisque;
+.mainTop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../../assets/Banner.jpg");
 }
 
-.links{
-    text-decoration: none;
-    font-size: 40px;
-    color: blue;
-    margin: 10px 10px 10px 10px;
-    font-family: 'Square peg';
+nav {
+  display: flex;
+  align-items: center;
+}
+
+.logoImage {
+  height: 43px;
+  margin-right: 10px;
+}
+
+.links {
+  height: 43px;
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+  margin: 10px 10px 10px 0;
+  font-family: "Bitter", sans-serif;
 }
