@@ -16,6 +16,7 @@ function App() {
         <TopBar />
         <Routes>
           <Route exact path="/" element={<Home />} />
+          <Route path="/ChainOfEducation" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/biology" element={<Biology />} />
           <Route path="/chemistry" element={<Chemistry />} />
