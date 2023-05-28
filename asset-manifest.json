@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ChainOfEducation/static/css/main.4d605da8.css",
-    "main.js": "/ChainOfEducation/static/js/main.7073998f.js",
+    "main.js": "/ChainOfEducation/static/js/main.56d68833.js",
     "static/js/787.142da1d4.chunk.js": "/ChainOfEducation/static/js/787.142da1d4.chunk.js",
     "static/media/Banner.jpg": "/ChainOfEducation/static/media/Banner.11114ca1c730230d74d9.jpg",
     "static/media/logo.png": "/ChainOfEducation/static/media/logo.7cc853f0743ec6494aae.png",
@@ -10,11 +10,11 @@
     "static/media/Chemistry.png": "/ChainOfEducation/static/media/Chemistry.c1f676d1958b101564f6.png",
     "index.html": "/ChainOfEducation/index.html",
     "main.4d605da8.css.map": "/ChainOfEducation/static/css/main.4d605da8.css.map",
-    "main.7073998f.js.map": "/ChainOfEducation/static/js/main.7073998f.js.map",
+    "main.56d68833.js.map": "/ChainOfEducation/static/js/main.56d68833.js.map",
     "787.142da1d4.chunk.js.map": "/ChainOfEducation/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d605da8.css",
-    "static/js/main.7073998f.js"
+    "static/js/main.56d68833.js"
   ]
 }
