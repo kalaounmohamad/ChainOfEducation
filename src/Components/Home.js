@@ -6,6 +6,7 @@ import chemistryImage from "../assets/Chemistry.png";
 import physicsImage from "../assets/Physics.png";
 import mathImage from "../assets/Math.png";
 import economicsImage from "../assets/Economics.png";
+import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
@@ -41,16 +42,16 @@ export default function Home() {
       </div>
       <div className="appointment">
         <div className="line line-red" />
-        <a href="" className="appoint">
-          Book An Appointment
-        </a>
+        <Link to="/home">
+          <div className="appoint">Book An Appointment</div>
+        </Link>
         <div className="line line-black" />
       </div>
       <div className="card-grid">
         <div className="card">
-          <a href="/biology">
+          <Link to="/biology">
             <img src={biologyImage} alt="Avatar" style={{ width: "100%" }} />
-          </a>
+          </Link>
           <div className="container">
             <h4>
               <b>Biology</b>
@@ -58,9 +59,9 @@ export default function Home() {
           </div>
         </div>
         <div className="card">
-          <a href="/chemistry">
+          <Link to="/chemistry">
             <img src={chemistryImage} alt="Avatar" style={{ width: "100%" }} />
-          </a>
+          </Link>
           <div className="container">
             <h4>
               <b>Chemistry</b>
@@ -68,9 +69,9 @@ export default function Home() {
           </div>
         </div>
         <div className="card">
-          <a href="/physics">
+          <Link to="/physics">
             <img src={physicsImage} alt="Avatar" style={{ width: "100%" }} />
-          </a>
+          </Link>
           <div className="container">
             <h4>
               <b>Physics</b>
@@ -78,9 +79,9 @@ export default function Home() {
           </div>
         </div>
         <div className="card">
-          <a href="/math">
+          <Link to="/math">
             <img src={mathImage} alt="Avatar" style={{ width: "100%" }} />
-          </a>
+          </Link>
           <div className="container">
             <h4>
               <b>Math</b>
@@ -88,9 +89,9 @@ export default function Home() {
           </div>
         </div>
         <div className="card">
-          <a href="/economics">
+          <Link to="/economics">
             <img src={economicsImage} alt="Avatar" style={{ width: "100%" }} />
-          </a>
+          </Link>
           <div className="container">
             <h4>
               <b>Economics</b>
